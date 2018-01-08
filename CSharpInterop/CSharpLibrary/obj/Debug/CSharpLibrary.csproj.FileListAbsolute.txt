@@ -1,0 +1,5 @@
+/Users/jbowles/Projects/CSharpInterop/CSharpLibrary/bin/Debug/CSharpLibrary.dll
+/Users/jbowles/Projects/CSharpInterop/CSharpLibrary/bin/Debug/CSharpLibrary.pdb
+/Users/jbowles/Projects/CSharpInterop/CSharpLibrary/obj/Debug/CSharpLibrary.csproj.CoreCompileInputs.cache
+/Users/jbowles/Projects/CSharpInterop/CSharpLibrary/obj/Debug/CSharpLibrary.dll
+/Users/jbowles/Projects/CSharpInterop/CSharpLibrary/obj/Debug/CSharpLibrary.pdb
